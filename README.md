@@ -1,7 +1,7 @@
 # happyfile
 this is a destructive virus that erases the file system for people who want to destroy thier computers. please do not use to infect other computers.
 
-Copyright (C) 2014 stormchaser3000 (i** sutter)
+Copyright (C) 2015 stormchaser3000 (i** sutter)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
